@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "filesystem": "cpp",
+        "xlocinfo": "cpp",
+        "xstring": "cpp"
+    },
+    "CodeGPT.apiKey": "CodeGPT Plus Beta"
+}
