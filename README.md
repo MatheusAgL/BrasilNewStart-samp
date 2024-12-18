@@ -53,7 +53,7 @@ Nossa GameMode foi durante quase 1 década desenvolvida para uso dos servidores 
 ## __Instalação__  
 1. **Clone ou baixe este repositório**:  
    ```bash
-   git clone https://github.com/seuusuario/nome-do-gamemode.git
+   git clone https://github.com/MatheusAgL/BrasilNewStart-samp.git
 2. **Descompacte a pasta "dependências" se você for usar sampctl** (Você pode adaptar para compilar pelo PAWN novamente mas você precisa ter conhecimento):
 3. Instale o banco de dados que está na pasta database...
 
